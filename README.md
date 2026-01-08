@@ -1,13 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Inter
-    &size=28
-    &duration=2500
-    &pause=500
-    &color=FFFFFF
-    &width=440
-    &lines=hello;it's+rishav."
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=500&color=E5E7EB&width=440&cursor=true&lines=hello.;it's+rishav." />
 </p>
 
 
