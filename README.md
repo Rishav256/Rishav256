@@ -3,8 +3,9 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,python,linux,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,python,linux,docker&theme=dark" />
 </p>
+
 
 I’m Rishav, a full-stack web developer working mainly with the MERN stack, with a backend-first approach.
 
