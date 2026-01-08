@@ -46,4 +46,4 @@ I enjoy building systems end-to-end — designing APIs, handling auth and data f
 
 ---
 
-Currently deepening backend fundamentals and gradually moving toward **DevOps and system-level tooling**.
+Currently deepening backend fundamentals and gradually moving toward **DevOps and System-level tooling**.
