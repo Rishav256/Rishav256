@@ -16,24 +16,28 @@ I enjoy building things end-to-end — designing APIs, handling auth and data fl
 
 ---
 
-## Tech I use
+## Tech
 
-### Backend & Core
-- JavaScript  
-- Node.js, Express  
-- MongoDB, Mongoose  
-- JWT, REST APIs  
+### Languages
+- JavaScript
+- Java
+- Python
+- C
+
+### Backend & Data
+- Node.js, Express
+- MongoDB, Mongoose
+- REST APIs, JWT
 
 ### Frontend (when needed)
-- React  
-- Tailwind CSS  
+- React
+- Tailwind CSS
 
-### Tools & Infra (growing focus)
-- Git & GitHub  
-- Postman  
-- Cloudinary  
-- Linux  
-- Docker (learning)  
+### Tools & Systems
+- Git & GitHub
+- Postman
+- Linux
+- Docker (learning)
 
 ---
 
