@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hey 👋
 
-<!--
-**Rishav256/Rishav256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Rish, a full-stack web developer working mainly with the **MERN stack**, with a clear backend focus.
 
-Here are some ideas to get you started:
+I enjoy building things end-to-end — designing APIs, handling auth and data flow, and keeping systems clean and predictable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I work on
+- Backend-heavy MERN applications  
+- REST APIs, authentication, and data modeling  
+- Performance, structure, and maintainability  
+
+---
+
+## Tech I use
+
+### Backend & Core
+- JavaScript  
+- Node.js, Express  
+- MongoDB, Mongoose  
+- JWT, REST APIs  
+
+### Frontend (when needed)
+- React  
+- Tailwind CSS  
+
+### Tools & Infra (growing focus)
+- Git & GitHub  
+- Postman  
+- Cloudinary  
+- Linux  
+- Docker (learning)  
+
+---
+
+Currently deepening backend fundamentals and gradually moving toward **DevOps and system-level tooling**.
