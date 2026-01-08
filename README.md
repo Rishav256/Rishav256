@@ -1,4 +1,15 @@
-## Hey 👋
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?
+    font=Inter
+    &size=28
+    &duration=2500
+    &pause=500
+    &color=FFFFFF
+    &width=440
+    &lines=hello;it's+rishav."
+  />
+</p>
+
 
 I’m Rishav, a full-stack web developer working mainly with the **MERN stack**, with a clear backend focus.
 
