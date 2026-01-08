@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=500&color=E5E7EB&width=440&cursor=true&lines=hello.;it's+rishav." />
 </p>
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,python,linux,docker&theme=dark" />
+</p>
 
 I’m Rishav, a full-stack web developer working mainly with the MERN stack, with a backend-first approach.
 
