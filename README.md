@@ -1,11 +1,11 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=500&color=E5E7EB&width=440&cursor=true&lines=Hello!;it's+Rishav..." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=500&color=E5E7EB&width=440&cursor=true&lines=hello.;it's+rishav." />
 </p>
 
 
-I’m Rishav, a full-stack web developer working mainly with the **MERN stack**, with a clear backend focus.
+I’m Rishav, a full-stack web developer working mainly with the MERN stack, with a backend-first approach.
 
-I enjoy building things end-to-end — designing APIs, handling auth and data flow, and keeping systems clean and predictable.
+I enjoy building systems end-to-end — designing APIs, handling auth and data flow, and keeping things clean and predictable.
 
 ---
 
@@ -38,6 +38,7 @@ I enjoy building things end-to-end — designing APIs, handling auth and data fl
 - Postman
 - Linux
 - Docker (learning)
+- Deployment basics
 
 ---
 
