@@ -13,31 +13,31 @@ I enjoy building systems end-to-end — designing APIs, handling auth and data f
 
 ---
 
-## What I work on
+## what i work on
 - Backend-heavy MERN applications  
 - REST APIs, authentication, and data modeling  
 - Performance, structure, and maintainability  
 
 ---
 
-## Tech
+## tech
 
-### Languages
+### languages
 - JavaScript
 - Java
 - Python
 - C
 
-### Backend & Data
+### backend & data
 - Node.js, Express
 - MongoDB, Mongoose
 - REST APIs, JWT
 
-### Frontend (when needed)
+### frontend (when needed)
 - React
 - Tailwind CSS
 
-### Tools & Systems
+### tools & systems
 - Git & GitHub
 - Postman
 - Linux
