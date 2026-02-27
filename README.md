@@ -14,9 +14,10 @@ I enjoy building systems end-to-end — designing APIs, handling auth and data f
 ---
 
 ## what i work on
-- Backend-heavy MERN applications  
-- REST APIs, authentication, and data modeling  
-- Performance, structure, and maintainability  
+- building scalable backend systems with the MERN stack
+- adding real-time collaborative functionality using WebSockets and role-based access control
+- writing clean, secure REST APIs with proper authentication and structured data models
+- improving performance and reliability so applications hold up in real-world use
 
 ---
 
