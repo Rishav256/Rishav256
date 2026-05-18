@@ -3,48 +3,39 @@
 </p>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,java,python,linux,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,mongodb,express,react,nodejs,linux,postman,java,python&theme=dark" />
 </p>
 
-
-I’m Rishav, a full-stack web developer working mainly with the MERN stack, with a backend-first approach.
-
-I enjoy building systems end-to-end — designing APIs, handling auth and data flow, and keeping things clean and predictable.
+mern stack developer. backend-first.  
+i build things end-to-end — apis, auth systems, databases — and i ship them to actual servers, not just localhost.
 
 ---
 
-## what i work on
-- building scalable backend systems with the MERN stack
-- adding real-time collaborative functionality using WebSockets and role-based access control
-- writing clean, secure REST APIs with proper authentication and structured data models
-- improving performance and reliability so applications hold up in real-world use
+```bash
+~/projects
+```
+
+| project | what it is | stack | live |
+|---|---|---|---|
+| **aerostay** | hospitality booking platform — listings, bookings, image uploads, google oauth | react · express · mongodb · docker · aws ec2 · nginx · github actions | [↗](http://13.201.9.163.nip.io) |
+| **fintrack** | finance dashboard — role-based ui, recharts, csv export, usememo optimization | react 18 · recharts · tailwind | [↗](https://finance-dashboard-ui-three-gamma.vercel.app) |
+| **devlog** | developer activity tracker — cron email digests, jwt auth, mongodb aggregation | node · express · mongodb · node-cron | `[wip]` |
 
 ---
 
-## tech
+```bash
+~/stack
+```
 
-### languages
-- JavaScript
-- Java
-- Python
-- C
-
-### backend & data
-- Node.js, Express
-- MongoDB, Mongoose
-- REST APIs, JWT
-
-### frontend (when needed)
-- React
-- Tailwind CSS
-
-### tools & systems
-- Git & GitHub
-- Postman
-- Linux
-- Docker (learning)
-- Deployment basics
+`node.js` `express` `mongodb` `mongoose` `react` `tailwind` `jwt` `rest apis`  
+`docker` `aws ec2` `nginx` `github actions` `linux` `cloudinary`
 
 ---
 
-Currently deepening backend fundamentals and gradually moving toward **DevOps and System-level tooling**.
+```bash
+~/currently
+```
+
+- finishing devlog — cron-based email digests and aggregation pipelines
+- deepening aws — ec2, iam, billing alerts, production deployments
+- actively looking for **junior / full-stack roles** in bangalore
